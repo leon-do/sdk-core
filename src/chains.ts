@@ -14,7 +14,7 @@ export enum ChainId {
   GNOSIS = 100,
   MOONBEAM = 1284,
   BNB = 56,
-  MORDOR = 65,
+  CLASSIC_MORDOR = 65,
   AVALANCHE = 43114,
   BASE_GOERLI = 84531,
   BASE = 8453
@@ -34,7 +34,7 @@ export const SUPPORTED_CHAINS = [
   ChainId.CELO_ALFAJORES,
   ChainId.CELO,
   ChainId.BNB,
-  ChainId.MORDOR,
+  ChainId.CLASSIC_MORDOR,
   ChainId.AVALANCHE,
   ChainId.BASE,
   ChainId.BASE_GOERLI
