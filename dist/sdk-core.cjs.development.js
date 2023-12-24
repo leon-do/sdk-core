@@ -67,7 +67,7 @@ function _inheritsLoose(subClass, superClass) {
   ChainId[ChainId["GNOSIS"] = 100] = "GNOSIS";
   ChainId[ChainId["MOONBEAM"] = 1284] = "MOONBEAM";
   ChainId[ChainId["BNB"] = 56] = "BNB";
-  ChainId[ChainId["CLASSIC_MORDOR"] = 65] = "CLASSIC_MORDOR";
+  ChainId[ChainId["CLASSIC_MORDOR"] = 63] = "CLASSIC_MORDOR";
   ChainId[ChainId["AVALANCHE"] = 43114] = "AVALANCHE";
   ChainId[ChainId["BASE_GOERLI"] = 84531] = "BASE_GOERLI";
   ChainId[ChainId["BASE"] = 8453] = "BASE";
