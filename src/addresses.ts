@@ -91,6 +91,16 @@ const BNB_ADDRESSES: ChainAddresses = {
   swapRouter02Address: '0xB971eF87ede563556b2ED4b1C0b0019111Dd85d2'
 }
 
+const CLASSIC_ADDRESSES: ChainAddresses = {
+  v3CoreFactoryAddress: '',
+  multicallAddress: '',
+  quoterAddress: '',
+  v3MigratorAddress: '',
+  nonfungiblePositionManagerAddress: '',
+  tickLensAddress: '',
+  swapRouter02Address: '' 
+}
+
 const CLASSIC_MORDOR_ADDRESSES: ChainAddresses = {
   v3CoreFactoryAddress: '0xbFf4A84D17B12bAa6d9b0A96aca03d09fAa767eC',
   multicallAddress: '0x2a992B59781C14643d15156eFc2923508544086E',
@@ -173,6 +183,7 @@ export const CHAIN_TO_ADDRESSES_MAP: Record<SupportedChainsType, ChainAddresses>
   [ChainId.CELO]: CELO_ADDRESSES,
   [ChainId.CELO_ALFAJORES]: CELO_ADDRESSES,
   [ChainId.BNB]: BNB_ADDRESSES,
+  [ChainId.CLASSIC]: CLASSIC_ADDRESSES,
   [ChainId.CLASSIC_MORDOR]: CLASSIC_MORDOR_ADDRESSES,
   [ChainId.OPTIMISM_GOERLI]: OPTIMISM_GOERLI_ADDRESSES,
   [ChainId.ARBITRUM_GOERLI]: ARBITRUM_GOERLI_ADDRESSES,
