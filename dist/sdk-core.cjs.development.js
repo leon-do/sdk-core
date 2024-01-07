@@ -161,13 +161,13 @@ var CLASSIC_ADDRESSES = {
   swapRouter02Address: ''
 };
 var CLASSIC_MORDOR_ADDRESSES = {
-  v3CoreFactoryAddress: '0xbFf4A84D17B12bAa6d9b0A96aca03d09fAa767eC',
-  multicallAddress: '0x2a992B59781C14643d15156eFc2923508544086E',
-  quoterAddress: '0xCB4d8Ce7F798828E6F52E82ebAFf44dE6CBadc9d',
-  v3MigratorAddress: '0x917647fCC94131e54F61EBC2492450dD05F4dc87',
-  nonfungiblePositionManagerAddress: '0x5DDCFF09fB9b291c27398a35fd2eF8263A3f6655',
-  tickLensAddress: '0xC2c548af5DA6300478B6E03bfCe27A015B5c9ab1',
-  swapRouter02Address: '0x29fCe632E06c62c3036148C76461F2E239A4434B'
+  v3CoreFactoryAddress: '0x705D73640cDE50BC366d30E27742C685f17C067a',
+  multicallAddress: '0x70657A035f47f0C2b992faB2620fdB062B27629B',
+  quoterAddress: '0xa51De0b7024fe8e392bDD8d79e51Dcf988AEcf21',
+  v3MigratorAddress: '0xd495f958708399623Dd9859913dD923dacF5B442',
+  nonfungiblePositionManagerAddress: '0x6D71e6BfEB8894c7a7E66574C409Ac13C4B160E6',
+  tickLensAddress: '0x51a609e30ED9FaBe6E8C21f57D8ba74ece56F49e',
+  swapRouter02Address: '0xB6A8aeBde62F7f6241ea83D3b42080167298d03e'
 }; // optimism goerli addresses
 
 var OPTIMISM_GOERLI_ADDRESSES = {
