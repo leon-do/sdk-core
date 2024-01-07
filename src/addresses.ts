@@ -102,13 +102,13 @@ const CLASSIC_ADDRESSES: ChainAddresses = {
 }
 
 const CLASSIC_MORDOR_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x705D73640cDE50BC366d30E27742C685f17C067a',
-  multicallAddress: '0x70657A035f47f0C2b992faB2620fdB062B27629B',
-  quoterAddress: '0xa51De0b7024fe8e392bDD8d79e51Dcf988AEcf21',
-  v3MigratorAddress: '0xd495f958708399623Dd9859913dD923dacF5B442',
-  nonfungiblePositionManagerAddress: '0x6D71e6BfEB8894c7a7E66574C409Ac13C4B160E6',
-  tickLensAddress: '0x51a609e30ED9FaBe6E8C21f57D8ba74ece56F49e',
-  swapRouter02Address: '0xB6A8aeBde62F7f6241ea83D3b42080167298d03e' 
+  v3CoreFactoryAddress: '0xd3AEf28a2EBacd2667C7BCcDFFA070CB3bAEFed5',
+  multicallAddress: '0x7b58D0a08b65c661EF85c8eA7B8A4171C3CE790a',
+  quoterAddress: '0x25118363CcE412502b9AAaf4E95F7Efe5AFa9D3B',
+  v3MigratorAddress: '0x0443429e86201A69D1796230f03554E439bd5B1d',
+  nonfungiblePositionManagerAddress: '0xCaD09A0F149CC372e7DE3CB58ec3A5DB80EaA262',
+  tickLensAddress: '0xEB7464b7F19726f103e5cf21bf014558d0d449c2',
+  swapRouter02Address: '0x648A28f133447354E2B3F2d987480E68F7a934d1' 
 }
 
 // optimism goerli addresses
